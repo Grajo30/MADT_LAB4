@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LAB_4</string>
+    <string name="notes_text">Notes</string>
+    <string name="delete_notes_text">Delete note</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="note_text">Note Text</string>
+    <string name="button_save">Save</string>
+</resources>
